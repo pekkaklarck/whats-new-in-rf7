@@ -23,4 +23,5 @@ The listener does modifications that are seen in the log file and also writes so
 More information:
 
 - [Robot Framework 7.0 release notes](https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-7.0.rst)
+- [Release notes as PDF](https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-7.0.pdf) (GitHub has a bug showing the original file at the moment)
 - [More listener examples](https://github.com/robotframework/robotframework/tree/master/atest/testdata/output/listener_interface/body_items_v3)
